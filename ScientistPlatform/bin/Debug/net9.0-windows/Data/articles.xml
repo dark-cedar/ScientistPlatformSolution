@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Article xsi:type="ResearchArticle">
+    <ISSN>1111-1111</ISSN>
+    <Title>Machine Learning in Medicine</Title>
+    <Year>2022</Year>
+    <JournalName>AI Science Journal</JournalName>
+    <KeyWords>
+      <string>AI</string>
+      <string>Medicine</string>
+      <string>Machine Learning</string>
+    </KeyWords>
+    <Authors>
+      <Author>
+        <ORCID>0000-0001-1111-1111</ORCID>
+        <FullName>Ivan Petrov</FullName>
+        <Affiliation>MIPT</Affiliation>
+      </Author>
+      <Author>
+        <ORCID>0000-0002-2222-2222</ORCID>
+        <FullName>Anna Smirnova</FullName>
+        <Affiliation>MSU</Affiliation>
+      </Author>
+    </Authors>
+    <Methodology>Experimental comparison</Methodology>
+  </Article>
+  <Article xsi:type="ReviewArticle">
+    <ISSN>2222-2222</ISSN>
+    <Title>Modern Climate Models Review</Title>
+    <Year>2021</Year>
+    <JournalName>Climate Review</JournalName>
+    <KeyWords>
+      <string>Climate</string>
+      <string>Ecology</string>
+      <string>Statistics</string>
+    </KeyWords>
+    <Authors>
+      <Author>
+        <ORCID>0000-0002-2222-2222</ORCID>
+        <FullName>Anna Smirnova</FullName>
+        <Affiliation>MSU</Affiliation>
+      </Author>
+      <Author>
+        <ORCID>0000-0003-3333-3333</ORCID>
+        <FullName>John Smith</FullName>
+        <Affiliation>Oxford</Affiliation>
+      </Author>
+    </Authors>
+    <ReviewedSourcesCount>42</ReviewedSourcesCount>
+  </Article>
+  <Article xsi:type="CaseStudy">
+    <ISSN>3333-3333</ISSN>
+    <Title>Rare Disease Treatment Case</Title>
+    <Year>2023</Year>
+    <JournalName>Medical Cases</JournalName>
+    <KeyWords>
+      <string>Medicine</string>
+      <string>Case Study</string>
+      <string>Treatment</string>
+    </KeyWords>
+    <Authors>
+      <Author>
+        <ORCID>0000-0001-1111-1111</ORCID>
+        <FullName>Ivan Petrov</FullName>
+        <Affiliation>MIPT</Affiliation>
+      </Author>
+      <Author>
+        <ORCID>0000-0003-3333-3333</ORCID>
+        <FullName>John Smith</FullName>
+        <Affiliation>Oxford</Affiliation>
+      </Author>
+    </Authors>
+    <CaseDescription>Single patient treatment</CaseDescription>
+  </Article>
+  <Article xsi:type="ResearchArticle">
+    <ISSN>4444-4444</ISSN>
+    <Title>Robotics in Industrial Engineering</Title>
+    <Year>2024</Year>
+    <JournalName>Engineering Today</JournalName>
+    <KeyWords>
+      <string>Engineering</string>
+      <string>Robotics</string>
+      <string>Materials</string>
+    </KeyWords>
+    <Authors>
+      <Author>
+        <ORCID>0000-0004-4444-4444</ORCID>
+        <FullName>Maria Volkova</FullName>
+        <Affiliation>Yandex Research</Affiliation>
+      </Author>
+    </Authors>
+    <Methodology>Industrial prototype testing</Methodology>
+  </Article>
+</ArrayOfArticle>

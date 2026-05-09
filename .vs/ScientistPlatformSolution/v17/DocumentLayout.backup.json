@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\ScientistPlatformSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|d:\\code\\scientistplatformsolution\\model\\core\\article.citation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|solutionrelative:model\\core\\article.citation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|d:\\code\\scientistplatformsolution\\model\\core\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|solutionrelative:model\\core\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|d:\\code\\scientistplatformsolution\\model\\core\\article.publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|solutionrelative:model\\core\\article.publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|d:\\code\\scientistplatformsolution\\model\\core\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|solutionrelative:model\\core\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|d:\\code\\scientistplatformsolution\\model\\core\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD6AEB5-0127-4E72-860B-F7198D21222B}|Model\\Model.csproj|solutionrelative:model\\core\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|D:\\Code\\ScientistPlatformSolution\\scientistplatform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|D:\\Code\\ScientistPlatformSolution\\scientistplatform\\citationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\citationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|d:\\code\\scientistplatformsolution\\scientistplatform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|d:\\code\\scientistplatformsolution\\scientistplatform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|d:\\code\\scientistplatformsolution\\scientistplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|d:\\code\\scientistplatformsolution\\scientistplatform\\citationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53F2CF8-69DF-4568-80F4-122A9E4702E9}|ScientistPlatform\\ScientistPlatform.csproj|solutionrelative:scientistplatform\\citationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Article.Citation.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.Citation.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Article.Citation.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.Citation.cs",
+              "RelativeToolTip": "Model\\Core\\Article.Citation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:40:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.Publisher.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.Publisher.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Article.Publisher.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.Publisher.cs",
+              "RelativeToolTip": "Model\\Core\\Article.Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:39:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Publisher.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Publisher.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Publisher.cs",
+              "RelativeToolTip": "Model\\Core\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:39:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Author.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Author.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Author.cs",
+              "RelativeToolTip": "Model\\Core\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:36:34.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.cs",
+              "RelativeDocumentMoniker": "Model\\Core\\Article.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\Model\\Core\\Article.cs",
+              "RelativeToolTip": "Model\\Core\\Article.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:36:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.Designer.cs",
+              "RelativeToolTip": "ScientistPlatform\\MainForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:22:54.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CitationForm.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\CitationForm.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\CitationForm.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\CitationForm.cs",
+              "RelativeToolTip": "ScientistPlatform\\CitationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:18:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\CitationForm.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\CitationForm.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\CitationForm.cs [Design]",
+              "RelativeToolTip": "ScientistPlatform\\CitationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:11:00.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\MainForm.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.cs",
+              "RelativeToolTip": "ScientistPlatform\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:03:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\MainForm.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\MainForm.cs [Design]",
+              "RelativeToolTip": "ScientistPlatform\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:36:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "ScientistPlatform\\Program.cs",
+              "ToolTip": "D:\\Code\\ScientistPlatformSolution\\ScientistPlatform\\Program.cs",
+              "RelativeToolTip": "ScientistPlatform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T10:21:19.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

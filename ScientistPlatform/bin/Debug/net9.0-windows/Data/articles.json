@@ -1,0 +1,109 @@
+[
+  {
+    "$type": "Model.Core.ResearchArticle, Model",
+    "Methodology": "Experimental comparison",
+    "ArticleType": "Research Article",
+    "Citation": "Ivan Petrov, Anna Smirnova. Machine Learning in Medicine. AI Science Journal. 2022. ISSN: 1111-1111.",
+    "ISSN": "1111-1111",
+    "Title": "Machine Learning in Medicine",
+    "Year": 2022,
+    "JournalName": "AI Science Journal",
+    "KeyWords": [
+      "AI",
+      "Medicine",
+      "Machine Learning"
+    ],
+    "Authors": [
+      {
+        "ORCID": "0000-0001-1111-1111",
+        "FullName": "Ivan Petrov",
+        "Affiliation": "MIPT"
+      },
+      {
+        "ORCID": "0000-0002-2222-2222",
+        "FullName": "Anna Smirnova",
+        "Affiliation": "MSU"
+      }
+    ],
+    "Publisher": null
+  },
+  {
+    "$type": "Model.Core.ReviewArticle, Model",
+    "ReviewedSourcesCount": 42,
+    "ArticleType": "Review Article",
+    "Citation": "Anna Smirnova, John Smith. Modern Climate Models Review. Climate Review. 2021. ISSN: 2222-2222.",
+    "ISSN": "2222-2222",
+    "Title": "Modern Climate Models Review",
+    "Year": 2021,
+    "JournalName": "Climate Review",
+    "KeyWords": [
+      "Climate",
+      "Ecology",
+      "Statistics"
+    ],
+    "Authors": [
+      {
+        "ORCID": "0000-0002-2222-2222",
+        "FullName": "Anna Smirnova",
+        "Affiliation": "MSU"
+      },
+      {
+        "ORCID": "0000-0003-3333-3333",
+        "FullName": "John Smith",
+        "Affiliation": "Oxford"
+      }
+    ],
+    "Publisher": null
+  },
+  {
+    "$type": "Model.Core.CaseStudy, Model",
+    "CaseDescription": "Single patient treatment",
+    "ArticleType": "Case Study",
+    "Citation": "Ivan Petrov, John Smith. Rare Disease Treatment Case. Medical Cases. 2023. ISSN: 3333-3333.",
+    "ISSN": "3333-3333",
+    "Title": "Rare Disease Treatment Case",
+    "Year": 2023,
+    "JournalName": "Medical Cases",
+    "KeyWords": [
+      "Medicine",
+      "Case Study",
+      "Treatment"
+    ],
+    "Authors": [
+      {
+        "ORCID": "0000-0001-1111-1111",
+        "FullName": "Ivan Petrov",
+        "Affiliation": "MIPT"
+      },
+      {
+        "ORCID": "0000-0003-3333-3333",
+        "FullName": "John Smith",
+        "Affiliation": "Oxford"
+      }
+    ],
+    "Publisher": null
+  },
+  {
+    "$type": "Model.Core.ResearchArticle, Model",
+    "Methodology": "Industrial prototype testing",
+    "ArticleType": "Research Article",
+    "Citation": "Maria Volkova. Robotics in Industrial Engineering. Engineering Today. 2024. ISSN: 4444-4444.",
+    "ISSN": "4444-4444",
+    "Title": "Robotics in Industrial Engineering",
+    "Year": 2024,
+    "JournalName": "Engineering Today",
+    "KeyWords": [
+      "Engineering",
+      "Robotics",
+      "Materials"
+    ],
+    "Authors": [
+      {
+        "ORCID": "0000-0004-4444-4444",
+        "FullName": "Maria Volkova",
+        "Affiliation": "Yandex Research"
+      }
+    ],
+    "Publisher": null
+  }
+]
