@@ -40,7 +40,7 @@ public abstract partial class Article : IArticle
 
         if (keywords == null || keywords.Count == 0) throw new ArgumentException();
 
-        if (authors == null || authors.Count == 0) throw new ArgumentException();
+        if (authors == null || authors.Count < 1 || authors.Count > 10) throw new ArgumentException("Article must have from 1 to 10 authors.");
 
         ISSN = issn;
         Title = title;
